@@ -1,0 +1,39 @@
+body {
+  padding: 4em;
+  font-family: 'Courier New', monospace;
+  color: #000;
+  background-color: #eee
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+
+h2 {
+  color: #a00;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+h2 span {
+  font-size: 0.5em;
+}
+
+h2 span a {
+  text-decoration: none;
+  color: #a00;
+}
+
+footer {
+  padding-bottom: 2em;
+  position: fixed;
+  bottom: 0;
+  right: 4em;
+}
+
+footer a {
+  color: #000;
+  text-decoration: none;
+}

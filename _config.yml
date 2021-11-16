@@ -1,0 +1,8 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title: BNode.dev
+description:      A blank node (also called bnode) is a node in an RDF graph representing a resource for which a URI or literal is not given. The resource represented by a blank node is also called an anonymous resource.
+url: "https://bnode.dev"
+baseurl:          ""
